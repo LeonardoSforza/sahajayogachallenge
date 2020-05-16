@@ -1,0 +1,60 @@
+.row{
+  margin: 0;
+}
+
+.back{
+  height: 20px;
+  width: auto;
+}
+
+h1{
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.mar-left{
+  margin-left: 10%;
+}
+
+.chal-box{
+  width: 80%;
+  margin: auto;
+  border: 3px solid;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  padding: 4px;
+  
+}
+
+  .chal-box-text{
+    width: 80%;
+    height: 100%;
+    
+  }
+
+    .chal-box h5{
+      margin-left: 10%;
+      margin-bottom: 0;
+    }
+    
+  .chal-box-img{
+    width: 20%;
+    height: 100%;
+  }
+
+    .checkbox{
+      height: 45px;
+      
+    }
+    
+.day{
+  margin-top: 8px;
+  margin-bottom: 50px;
+}
+
+.week{
+  margin-top: 8px;
+  margin-bottom: 8px;
+}

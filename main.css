@@ -1,0 +1,50 @@
+.page-title{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+.profile-img{
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  background: url(pro.jpg);
+  margin: auto;
+  margin-top: 50px;
+  -moz-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  -webkit-box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  border: 0.1px solid grey;
+}
+
+.href{
+  font-weight: bold;
+  font-size: 40px;
+  margin-left: 10%;
+}
+
+.href:hover{
+  color: #000;
+  text-decoration: none;
+}
+
+.home-click{
+  margin-top: 100px;
+  margin-bottom: 20px;
+}
+
+/* For Projects */
+
+.back{
+  height: 20px;
+  width: auto;
+}
+
+.streak{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#stat1{
+  margin-top: 30px;
+}
